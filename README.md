@@ -1,7 +1,7 @@
 # css-mysite
 This website is made of HTML and CSS only.
 
-Link to 
+Link of website : https://riteshdholkhediya.github.io/css-mysite/
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/60638503/100066704-6701b980-2e5b-11eb-85df-189d1522cae7.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/60638503/100066707-6832e680-2e5b-11eb-8a0d-614abac76cac.png)
